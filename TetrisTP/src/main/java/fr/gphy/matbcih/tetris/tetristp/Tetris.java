@@ -29,7 +29,7 @@ public class Tetris extends Applet {
     //
     public final static int INITIAL_DELAY = 1000;
     public final static byte ROWS = 18;
-    public final static byte COLUMNS = 20;
+    public final static byte COLUMNS = 21;
     public final static int EMPTY = -1;
     public final static int EMPTY3 = -2;
     public final static int DELETED_ROWS_PER_LEVEL = 5;
